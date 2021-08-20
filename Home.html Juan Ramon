@@ -1,0 +1,41 @@
+<html>
+   <style>
+        .body{
+		font-family: Ariel;
+		background-color: #ECEFF1;
+		}
+		.contenedor {
+		 width: 85%;
+		 background-color: #ECEFF1;
+		 border-radius: 10px;
+		 border-color: white;
+		 border-style: solid;
+		 padding: auto;
+		 }
+		 .menu{
+		  fill: 1px  15px  15px  1px;
+		  background-color: #363636;
+		  color; white;
+		  }
+		  .banner{
+		   width: 100%;
+		   height: auto;
+		   }
+		   .seccion{
+		    fill: 5px  5px  5px  5px;
+			margin:  5px  5px  5px  5px;
+			border-color: #e0e0e0;
+			background-color: #F5F5F5;
+			padding: auto;
+			}
+			.item{
+			fill: 8px  8px  8px  8px;
+			width: 220px;
+			height: 310px;
+			border-radius: 5px;
+			float: left;
+			}
+			.poster{
+			 width: 220px;
+			 height: 310px;
+			 }
