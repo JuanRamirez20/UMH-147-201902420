@@ -1,0 +1,69 @@
+
+/*JUAN RAMON RAMIREZ MARADIAGA #201902420
+<html>
+<style>
+.body{
+font-family: Arial, sans-serif;
+background-color: #OOFF15;
+}
+
+.contenedor{
+width:90%;
+background-color: #OOFF15;
+border-radius: 11px;
+border-color: white;
+border-style: solid;
+padding: auto;
+}
+
+.menu{
+padding: 2px 16px 16px 2px;
+background-color:#363636;
+color: white;
+}
+
+.banner{
+width: 102%;
+height: auto;
+}
+
+.seccion{
+padding: 7px;
+margin: 12px;
+border-color: solid #e0e0e0;
+background-color: #F5F5F5;
+ overflow: auto;
+}
+
+.item{
+margin: 10px 10px 10px 10px;
+width: 222px;
+height: 312px;
+border-radius:7px;
+float: left;
+}
+
+.poster{
+width: 222px;
+height: 312px;
+}
+
+</style>
+<body>
+      <div class= "contenedor">  
+     <head class="menu", class="body">
+    <h1>Mis Peliculas</h1> </head>
+  <img class= "banner" src="imagenes/banner1.jpg" width="1102" height="302">
+  <body class="seccion">
+  <h2>Cartelera</h2>
+  <img class= "poster" src="imagenes/poster1.jpg">
+  <img class= "poster" src="imagenes/poster2.jpg">
+  <img class= "poster" src="imagenes/poster3.jpg">
+  <img class= "poster" src="imagenes/poster4.jpg">
+  <img class= "poster" src="imagenes/poster5.jpg">
+  <br><br>
+</body>
+</html>
+
+
+
