@@ -1,0 +1,76 @@
+<html>                                                                                                         JUAN RAMON RAMIREZ MARADIAGA #201902420
+    <head><title>EJERCICIO 3</title></head>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<style>
+    .body{
+        background-color: #212529;
+   
+</style>
+<p class="menu">Parrafo</p>
+<body class="body">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+             <iframe width="545" height="315" src="https://www.youtube.com/watch?v=og2rWtdi6po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+            </div>
+            <div class="col">
+                <div class="card text-white bg-dark">
+                    <div class="card-body">
+                        <h4 class="card-tittle">Titulo del video</h4>
+                        <h5 class="card-subtittle">Subtitulos</h5>
+                        <p class="card-text">Este es un texto</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+        <div class="row">
+            <div class="col">
+                <iframe width="260" height="190" src="https://www.youtube.com/watch?v=bQNikeLRJQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card text-white bg-dark">
+                    <div class="card-body">
+                        <h5 class="card-tittle">Titulo del video</h5>
+                        <h6 class="card-subtittle">Subtitulos del video </h6>
+                        <button type="button" class="btn btn-secondary btn-sm">Subtitulos</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <iframe width="260" height="190" src="https://www.youtube.com/watch?v=AM9CjtGCurY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card text-white bg-dark">
+                    <div class="card-body">
+                        <h5 class="card-tittle">Titulo del video</h5>
+                        <h6 class="card-subtittle">Subtitulos del video</h6>
+                        <button type="button" class="btn btn-secondary btn-sm">Subtitulos</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <iframe width="260" height="190" src="https://www.youtube.com/watch?v=czN1LfKO69s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card text-white bg-dark">
+                    <div class="card-body">
+                        <h5 class="card-tittle">Titulo del video</h5>
+                        <h6 class="card-subtittle">Subtitulos del video</h6>
+                        <button type="button" class="btn btn-secondary btn-sm">Subtitulos</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <iframe width="260" height="190" src="https://www.youtube.com/watch?v=uoAViT-frA0&list=RDMM&index=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card text-white bg-dark">
+                    <div class="card-body"> 
+                        <h5 class="card-tittle">Titulo del video</h5>
+                        <h6 class="card-subtittle">Subtitulos del video</h6>
+                        <button type="button" class="btn btn-secondary btn-sm">Subtitulos</button>
+                    </div>
+                </div>
+            </div>
+
+            </p>
+        </div>
+    </div>
+   
+</body>
+
+</html>
